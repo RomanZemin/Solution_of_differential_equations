@@ -1,0 +1,8 @@
+C:\Users\kirya\source\repos\Integral_SolverV2\Integral_SolverV2\x64\Debug\Integral_SolverV2.vcxproj.AssemblyReference.cache
+C:\Users\kirya\source\repos\Integral_SolverV2\Integral_SolverV2\x64\Debug\Integral_SolverV2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\kirya\source\repos\Integral_SolverV2\Integral_SolverV2\x64\Debug\IntegralSolverV2.IntegralSolver.resources
+C:\Users\kirya\source\repos\Integral_SolverV2\Integral_SolverV2\x64\Debug\Integral_SolverV2.vcxproj.GenerateResource.cache
+C:\Users\kirya\Desktop\Integral_SolverV2\Integral_SolverV2\x64\Debug\Integral_SolverV2.vcxproj.AssemblyReference.cache
+C:\Users\kirya\Desktop\Integral_SolverV2\Integral_SolverV2\x64\Debug\Integral_SolverV2.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\kirya\Desktop\Integral_SolverV2\Integral_SolverV2\x64\Debug\IntegralSolverV2.IntegralSolver.resources
+C:\Users\kirya\Desktop\Integral_SolverV2\Integral_SolverV2\x64\Debug\Integral_SolverV2.vcxproj.GenerateResource.cache
